@@ -10,23 +10,14 @@
 
 
 # C4 Model
-<details >
-
-
-![] (\image\context.jpg)
+![] (\KBProject\image\context.jpg)
 ![] (\image\KG%20component.png)
 ![] (\image\KG%20container.jpg)
-</details>
+
 
 
 # KB Wirefram
-
-<details >
-![] (Website%20Wireframing%20Template%20(1).jpg)
-
+![] (\image\Website%20Wireframing%20Template%20(1).jpg)
 
 # ER Model 
-
-<details >
 ![] (\image\ERmodel.drawio.png)
-</details>
