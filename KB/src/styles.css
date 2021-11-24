@@ -5,10 +5,8 @@
 body,html {
   margin: 0;
   font-family: "montserrat";
-  background: linear-gradient(to left,
-      #ccdbfd,
-      #d7e3fc,
-      #edf2fb);
+  background-color: #edf2fb;
+
   background-size: 400% 400%;
   animation: gradientTranisition 50s linear infinite;
   width: 100%;

@@ -7,6 +7,7 @@
 3. VC 
 4. bootstrap 
 5. MySQL databases 
+6. Swagger
 
 # C4 Model
 # KB System Context diagram 
@@ -14,13 +15,12 @@
 # KB System Container diagram 
 ![KB-container](https://user-images.githubusercontent.com/94824825/142869109-f11dd240-c881-4665-9d23-06553f2fc9b6.jpg)
 # KB System Component diagram
-![KB-componentupdate](https://user-images.githubusercontent.com/80330140/143004773-467725c8-e365-4921-8bb1-9e8795ae3383.png)
+![Component drawio](https://user-images.githubusercontent.com/80330140/143201925-5cf822aa-7f7a-4c1f-906e-cbd7fefbdab4.png)
 
 
 # KB Wirefram
 ![KB-Wireframing](https://user-images.githubusercontent.com/80330140/143006895-4294c91c-ab74-4e6d-a5f8-2074a9fa45e1.jpg)
 
 # KB ER Model 
-
-![ERmodel drawio1 drawio](https://user-images.githubusercontent.com/80330140/143186995-dadf5d1a-b6f9-492c-aae0-d1ace45c0fa8.png)
+![ER drawio](https://user-images.githubusercontent.com/80330140/143201856-bc7e3f41-02fa-4d53-b62a-51d1ee8d890c.png)
 
