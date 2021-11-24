@@ -22,5 +22,5 @@
 ![KB-Wireframing](https://user-images.githubusercontent.com/80330140/143006895-4294c91c-ab74-4e6d-a5f8-2074a9fa45e1.jpg)
 
 # KB ER Model 
-![ER drawio](https://user-images.githubusercontent.com/80330140/143201856-bc7e3f41-02fa-4d53-b62a-51d1ee8d890c.png)
+![er drawio (2)](https://user-images.githubusercontent.com/80330140/143222874-40141f65-fb95-41c2-8e2e-77822e6ac039.png)
 
